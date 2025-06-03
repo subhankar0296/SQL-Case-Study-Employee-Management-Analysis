@@ -1,4 +1,4 @@
-# SQL-Case-Study-Employee-Management-Analysis
+# SQL-Case-Study:Employee-Management-Analysis
 This project demonstrates a comprehensive SQL case study that analyzes employee data across departments, jobs, and locations. It showcases the use of SQL for data retrieval, aggregation, transformation, and business insights.
 
 ---
